@@ -182,7 +182,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  aws-sdk (~> 1.6)
+  aws-sdk
   bootstrap-sass
   byebug
   coffee-rails (~> 4.2)
